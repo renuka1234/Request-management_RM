@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>complete1</name>
+   <tag></tag>
+   <elementGuidId>16c0b4b8-9a77-429e-8657-d6b9bbbb1c88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'complete' or . = 'complete')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table/tbody/tr/td/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>complete</value>
+   </webElementProperties>
+</WebElementEntity>

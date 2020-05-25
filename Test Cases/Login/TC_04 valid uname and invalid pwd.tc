@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04 valid uname and invalid pwd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aed79c42-7f35-4b77-82df-dfab48aaaede</testCaseGuid>
+</TestCaseEntity>

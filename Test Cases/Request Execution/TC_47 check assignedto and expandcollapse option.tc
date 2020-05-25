@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_47 check assignedto and expandcollapse option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35223ca3-626b-488e-8ab3-34b18c014c21</testCaseGuid>
+</TestCaseEntity>
